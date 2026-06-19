@@ -1,6 +1,17 @@
 # Changelog
 
 Alle wijzigingen aan de Reetraa Horeca Beheer website.
+## [1.1.0] - 2026-06-19
+
+### Changed
+- Intro herschreven; teksten Shots Eindhoven en De Dokter aangepast; vacature- en contacttekst bijgewerkt (@herriaan)
+- Spelling met diacrieten: creëren, één familie; "Dezelfde shots, dezelfde vibe" (@herriaan)
+- Openingstijden toegevoegd bij Shots Breda en Eindhoven (@herriaan)
+- Telefoon 06-23855950 en kantooradres Weidehek 83 toegevoegd aan de contactsectie (@herriaan)
+
+### Removed
+- IJssalon Maystro volledig verwijderd (verkocht): venue-blok, hero-floater, fotostrip, fun-banner en about-tekst (@herriaan)
+- "Vijf concepten" door de hele site vervangen door "Vier" (stats, header, vacature-perk); CrossRover op reverse voor de zigzag (@herriaan)
 
 ## [1.0.0] - 2026-03-12
 
