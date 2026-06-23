@@ -13,6 +13,9 @@
 ## Next
 
 - [ ] Contactgegevens verifieren met klant (info@reetraa-horeca.nl)
-- [ ] Eigen foto's voor Shots Eindhoven (nu hergebruikt van Breda)
-- [ ] Openingstijden per venue toevoegen
+- [x] Eigen foto's voor Shots Eindhoven (aangeleverde groepsfoto, 23 jun)
+- [x] Openingstijden per venue toevoegen
+- [x] Barmedewerkster-foto vervangen + fotovariatie (issue 6, 23 jun)
 - [ ] Custom domein koppelen (indien gewenst)
+- [ ] Hoofdpaginafoto Shots Shooterbar (issue 8, geblokkeerd op toegang externe site)
+- [ ] Reetraa-fonts evt. gelijktrekken met huisstijl (Open Sans/Bangers) - afstemmen met klant

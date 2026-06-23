@@ -1,6 +1,14 @@
 # Changelog
 
 Alle wijzigingen aan de Reetraa Horeca Beheer website.
+## [1.2.0] - 2026-06-23
+
+### Changed
+- Barmedewerkster-foto (shots-1) overal verwijderd; Shots Breda krijgt de aangeleverde vuurshow-foto, Shots Eindhoven de aangeleverde groepsfoto (issue 6) (@herriaan)
+- Fotovariatie sterk uitgebreid: van 5 naar 10 unieke foto's; geen enkele venue-foto komt nog dubbel voor. Hero-floaters en fotostrip ingevuld met eerder ongebruikte authentieke beelden (shots-2, crossrover-media1, party-crowd, team-bar, hero-bar) (@herriaan)
+- Aangeleverde klantfoto's geoptimaliseerd naar max 1600px breed (jpeg q82) (@herriaan)
+- Betekenisvolle alt-teksten toegevoegd aan de hero-floaters (waren leeg) (@herriaan)
+
 ## [1.1.0] - 2026-06-19
 
 ### Changed
