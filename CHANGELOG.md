@@ -1,6 +1,11 @@
 # Changelog
 
 Alle wijzigingen aan de Reetraa Horeca Beheer website.
+## [1.2.1] - 2026-07-14
+
+### Changed
+- De Dokter-venuelink wijst nu naar het live domein https://feestcafededokter.nl/ in plaats van de github.io-URL (go-live web02) (@herriaan)
+
 ## [1.2.0] - 2026-06-23
 
 ### Changed
