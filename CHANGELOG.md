@@ -1,6 +1,13 @@
 # Changelog
 
 Alle wijzigingen aan de Reetraa Horeca Beheer website.
+
+## [1.2.2] - 2026-08-25
+
+### Verified
+- Contactgegevens geverifieerd: telefoon 06-23855950 en mail info@reetraa-horeca.nl bevestigd
+  correct door Herriaan. Geen wijziging nodig; ROADMAP.md-regel afgevinkt. (@herriaan)
+
 ## [1.2.1] - 2026-07-14
 
 ### Changed
