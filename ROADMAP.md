@@ -19,5 +19,5 @@
 - [x] Openingstijden per venue toevoegen
 - [x] Barmedewerkster-foto vervangen + fotovariatie (issue 6, 23 jun)
 - [ ] Custom domein koppelen (indien gewenst)
-- [ ] Hoofdpaginafoto Shots Shooterbar (issue 8, geblokkeerd op toegang externe site)
+- [x] ~~Hoofdpaginafoto Shots Shooterbar (issue 8, geblokkeerd op toegang externe site)~~ vervallen: afgewezen door Herriaan bij de sprintkeuze van week 42 (8 okt 2026), want de website is al opgeleverd; issue 8 is daarop gesloten
 - [ ] Reetraa-fonts evt. gelijktrekken met huisstijl (Open Sans/Bangers) - afstemmen met klant

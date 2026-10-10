@@ -2,6 +2,11 @@
 
 Alle wijzigingen aan de Reetraa Horeca Beheer website.
 
+## [1.2.3] - 2026-10-10
+
+### Changed
+- ROADMAP: het item "Hoofdpaginafoto Shots Shooterbar" is als vervallen afgevinkt. Herriaan wees het af bij de sprintkeuze van week 42 (8 okt 2026), omdat de website al is opgeleverd, en issue 8 is daarop gesloten. (@herriaan)
+
 ## [1.2.2] - 2026-08-25
 
 ### Verified
