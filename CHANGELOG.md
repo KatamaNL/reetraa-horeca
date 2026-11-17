@@ -2,6 +2,11 @@
 
 Alle wijzigingen aan de Reetraa Horeca Beheer website.
 
+## [1.2.4] - 2026-11-18
+
+### Changed
+- docs(roadmap): **ROADMAP opgeschoond bij de opschoning van de werkvoorraad, ronde 2** (opdracht Herriaan 17 nov 2026, twijfelvragen beslist op zijn opdracht van 18 nov). Open items van 2 naar 1, van 23 naar 23 regels. Afgeronde secties zijn één themaregel per onderwerp (de historie staat in CHANGELOG en git); weg zijn wachtposten zonder besluit, hermetingen zonder beslissing, review-restjes en dubbele regels. Terugkeervoorwaarden, waarschuwingen, besluiten en wijzers naar open issues zijn gebleven. Alleen docs. (@herriaan)
+
 ## [1.2.3] - 2026-10-10
 
 ### Changed
